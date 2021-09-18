@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SalJelena - Jelena Salopek
 - 👀 I’m interested in learning to think in solutions and not in problems.
 - 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me - salopekjelena24@gmail.com or www.linkedin.com/in/jelena-salopek
+- 📫 How to reach me - www.linkedin.com/in/jelena-salopek
 
 
 <!---
