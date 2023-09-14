@@ -1,14 +1,16 @@
-# github-profile-summary-cards-example
+# Jelena Salopek
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+:star: # `Connect with me` 
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jelena-salopek/">
+    <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-```To create your profile README you need to name the repo as your username```
+:star: # `Tech stack` 
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,nodejs,express,mongodb,mysql,figma)](https://skillicons.dev)
 
 [![](https://raw.githubusercontent.com/SalJelena/SalJelena/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/SalJelena/SalJelena/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SalJelena/SalJelena/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
